@@ -21,4 +21,4 @@ sh setup.sh
 
 This will use [pip](https://pypi.org/project/pip/) to install any necessary packages and ensures the `out/` directory is present.
 
-You can then open the *Jupyter* notebook (`qaoa-maxcut.ipynb`) with your tool of choice. The code can then be run and changed using the provided documentation in the notebook itself.
+You can then open the *Jupyter* notebook (`grid_optimiser.ipynb`) with your tool of choice. The code can then be run and changed using the provided documentation in the notebook itself.
